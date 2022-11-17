@@ -1,0 +1,12 @@
+.footer {
+    background: #000;
+}
+.logo__footer {
+    width: 100%;
+}
+
+.logo__footer--img {
+     width: 20%;
+    object-fit: cover;
+    height: auto;
+}
